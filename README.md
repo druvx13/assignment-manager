@@ -4,6 +4,11 @@
 
 A simple and elegant web-based **Assignment Tracker** built with PHP, MySQL, and TailwindCSS. Designed for college students to track, manage, and sort their assignments semester-wise with subject filters, priority tags, and progress analytics.
 
+
+## 📸 Screenshot
+
+![Assignment Manager UI](./theescape-eu-org-1024xFULLdesktop-e59712.jpg)
+
 ---
 
 ## **Features**
