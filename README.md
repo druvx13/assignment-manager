@@ -86,6 +86,7 @@ assignment-manager/
 ├── index.php         # Main Application File
 ├── database.sql      # MySQL schema and seed data
 ├── README.md         # Documentation
+├── LICENSE       # license
 ```
 
 ---
