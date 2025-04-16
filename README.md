@@ -45,7 +45,7 @@ A simple and elegant web-based **Assignment Tracker** built with PHP, MySQL, and
 ### 1. **Clone this repository**
 
 ```bash
-git clone https://github.com/yourusername/assignment-manager.git
+git clone https://github.com/druvx13/assignment-manager.git
 cd assignment-manager
 ```
 
