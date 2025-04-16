@@ -1,3 +1,6 @@
+> **⚠️ Found a bug or issue?**  
+> If you encounter or find any error, **do not hesitate to report it in the [Issues](../../issues) section**.  
+> This helps me identify and fix problems more effectively. Thank you!
 
 
 # **Assignment Manager**
